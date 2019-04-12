@@ -1,0 +1,33 @@
+{
+  "name": "qui-cli",
+  "version": "1.1.0",
+  "description": "qui框架基础开发模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "qui-cli": "./bin/qui.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangliGit/qui-mobile-template.git"
+  },
+  "keywords": [
+    "qui",
+    "qui-cli"
+  ],
+  "author": "zhangliGit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangliGit/qui-mobile-template/issues"
+  },
+  "homepage": "https://github.com/zhangliGit/qui-mobile-template#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "download-git-repo": "^1.0.2",
+    "inquirer": "^6.1.0",
+    "ora": "^3.0.0"
+  }
+}
