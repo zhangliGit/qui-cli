@@ -7,11 +7,11 @@
 全局安装
 
 ```js
-npm install coui-cli -g
+npm install qui-cli -g
 ```
 
 初始化项目基础模板
 
 ```js
-coui-cli init
+qui-cli init
 ```
